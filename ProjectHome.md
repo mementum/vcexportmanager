@@ -1,0 +1,1 @@
+Graphical tool to ease bulk export of daily data
